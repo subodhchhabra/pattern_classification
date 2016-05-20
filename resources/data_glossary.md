@@ -162,14 +162,6 @@ Please feel free to drop me a note via
 <br>
 <br>
 
-<a class="mk-toclify" id="accuracy"></a>
-#### Accuracy
-[[back to top](#table-of-contents)]
-
-Accuracy is defined as the fraction of correct classifications out of the total number of samples; it resembles one way to assess the performance of a predictor and is often used synonymous to [specificity](#specificity)/[precision](#precision-and-recall) although it is calculated differently. Accuracy is calculated as (TP+TN)/(P+N), where TP=True Positives, TN=True Negatives, P=Positives, N=Negatives.
-
-<br>
-<br>
 
 <a class="mk-toclify" id="accuracy"></a>
 #### Accuracy
@@ -584,15 +576,6 @@ Both eigenvectors and eigenvalues fundamental in many applications involve linea
 
 Ensemble methods combine multiple classifiers which may differ in algorithms, input features, or input samples. Statistical analyses showed that ensemble methods yield better classification performances and are also less prone to overfitting. Different methods, e.g., bagging or boosting, are used to construct the final classification decision based on weighted votes.  
 (submitted by [Vahid Mirjalili](https://github.com/mirjalil); edited)
-
-<br>
-<br>
-
-<a class="mc-toclify" id="ensemble-methods"></a>
-#### Ensemble methods
-[[back to top](#table-of-contents)]
-
-Ensemble methods combine multiple classifiers which may differ in algorithms, input features, or input samples. Statistical analyses showed that ensemble methods yield better classification performances and are also less prone to overfitting. Different methods, e.g., bagging or boosting, are used to construct the final classification decision based on weighted votes.  
 
 <br>
 <br>
